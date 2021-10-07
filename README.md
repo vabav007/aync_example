@@ -1,2 +1,2 @@
-# aync_example
+# async_example
 executing multiple calls in parallel and asynchronously
